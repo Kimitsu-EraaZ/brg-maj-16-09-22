@@ -1,0 +1,12 @@
+couleur : 						police
+
+nav blanc : rvb : 	#ffffff				Poppins
+    rouge : rvb :	#fe0000		
+
+
+
+footer bleu : rvb :   #449eff (& + opacity : 0.6)	Poppins
+       blanc : rvb :	#ffffff
+
+
+background : rvb : #ffffffa1 (transparence)
